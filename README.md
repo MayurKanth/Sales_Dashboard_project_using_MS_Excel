@@ -5,5 +5,5 @@ I have developed various pivot charts like Funnel, Bar, Area, Line, Pie  to visu
 Following steps are perfomred to complete this project :-
 Data Extraction 
 Data Cleaning and preparation
-Inserting pivot Tables and charts
-Creating a dashboard
+Inserting pivot Tables and charts and 
+Creating a dashboard.
