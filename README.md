@@ -7,3 +7,10 @@ Data Extraction
 Data Cleaning and preparation
 Inserting pivot Tables and charts and 
 Creating a dashboard.
+
+
+
+
+
+
+<img width="2036" height="932" alt="image" src="https://github.com/user-attachments/assets/11b79c29-365c-44e8-ba28-1d124e605e93" />
