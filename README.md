@@ -49,13 +49,13 @@ The goal of this project is to turn raw transactional sales data into a dashboar
 
 ## 🔍 Key Insights
 
-- **Technology** has the highest sales (~$836K) and is also the most profitable category (~$145K).
-- **Furniture** has high sales (~$742K) but very low profit (~$18K), so its margins are thin.
-- **Phones** (~$330K) and **Chairs** (~$328K) are the top-selling sub-categories.
-- Sales grew every year after 2015, from ~$484K in 2014 to ~$733K in 2017.
+- **Technology** has the highest sales ($836K) and is also the most profitable category ($145K).
+- **Furniture** has high sales ($742K) but very low profit ($18K), so its margins are thin.
+- **Phones** ($330K) and **Chairs** ($328K) are the top-selling sub-categories.
+- Sales grew every year after 2015, from $484K in 2014 to $733K in 2017.
 - Order volume rose from 1,993 orders in 2014 to 3,312 in 2017.
 - Sales are strongly seasonal. **September, November, and December** are the peak months.
-- **California** (~$458K) and **New York** (~$311K) contribute the largest share of sales.
+- **California** ($458K) and **New York** ($311K) contribute the largest share of sales.
 - The top 5 most profitable customers are Tamara Chand, Raymond Buch, Sanjit Chand, Hunter Lopez, and Adrian Barton.
 
 
